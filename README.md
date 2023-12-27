@@ -1,7 +1,7 @@
 # Mall_Purchase_Data_Analysis
 This project employs SQL for the examination of a paytm mall purchase data. The project's objective is to address specific inquiries regarding business performance and contribute to its expansion by facilitating informed decision-making.
 
--- The dataset consist of following columns 
+ The dataset consist of  columns 
 S.no,	
 Name,	
 Shipping_city,	
